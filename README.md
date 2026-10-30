@@ -1,4 +1,4 @@
-# Block Studio
+# Cube Tool
 
 정육면체 블록 조합 3D 목업 툴 (React + R3F + Tailwind).
 
